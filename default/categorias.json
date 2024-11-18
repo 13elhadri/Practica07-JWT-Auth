@@ -1,0 +1,10 @@
+[
+	{
+    		"nombre": "DISNEY",
+    		"isDeleted": false
+	},
+	{
+    		"nombre": "OTROS",
+    		"isDeleted": false
+	}	
+]
